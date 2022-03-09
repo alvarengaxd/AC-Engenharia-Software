@@ -1,5 +1,3 @@
-# AC-Engenharia-Software
-Sistema FastMobLine
 Andres Queiros - RA: 2101979 
 Bruno Bonaita - RA: 1903809
 Daniel Corrêa Melo - RA: 2102282
