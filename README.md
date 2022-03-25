@@ -1,11 +1,11 @@
-Andres Queiroz - RA: 2101979
+Andres Queiroz Cesario de França - RA: 2101979
 
-Bruno Bonaita - RA: 1903809
+Bruno Bonaita dos Santos - RA: 1903809
 
 Daniel Corrêa Melo - RA: 2102282
 
-Eduardo Santana - RA: 2102187
+Eduardo da Silva Santana - RA: 2102187
 
-Ivan de Alvarenga - RA: 2102376
+Ivan de Alvarenga Silva - RA: 2102376
 
-Paula Figueiredo - RA: 1902939
+Paula Roberta Mendes Figueiredo  - RA: 1902939
